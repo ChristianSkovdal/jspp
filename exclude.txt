@@ -1,0 +1,5 @@
+jspp.sln
+jspp.v12.suo
+jspp\bin\
+jspp\obj\
+jspp\properties\
